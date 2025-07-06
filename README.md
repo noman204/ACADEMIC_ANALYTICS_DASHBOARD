@@ -34,7 +34,7 @@ This project presents an interactive Power BI dashboard built as part of a Junio
 
 * Power Query (Data Cleaning and Transformation)
 
-# Summarizing My Key Findings & Assumptions Made (Shortly):
+# Summarizing My Key Findings & Assumptions Made :
 
 This Power BI dashboard analyzes student performance across multiple exam attempts, providing insights into exam trends, pass rates, and individual progress. The dataset includes information on student IDs, exam names, attempt dates, and result metrics (total answers, correct and incorrect responses).
 
