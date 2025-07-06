@@ -20,7 +20,7 @@ This project presents an interactive Power BI dashboard built as part of a Junio
 
 # Key Insights:
 
-1.Over 40% of students improved their performance on second attempts.
+1. Over 40% of students improved their performance on second attempts.
 
 2. Subjects like Biology and Physics showed higher decline rates compared to English and History.
 
